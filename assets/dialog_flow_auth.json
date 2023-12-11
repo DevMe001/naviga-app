@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "naviga-bot-otip",
+  "private_key_id": "a0fd58b4e7cdfb22bf8a6d070ec241c42bbeaec8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDheQUAoe6Ebcnk\ndoGMiI1ryhqqu9hyH0UYCzlK/m1rq84f3k27uxnMNqfdNXfRE1PIq8uG8uDCvMh8\ncc7z33XwVB37oXCJB4iRCCWRum/0slyS/HB4QDHwXokB7JTtprSIOfgOYBkAVV5x\nB4kouudnmxZRqxVDgWEFCNX6dAx/lRidm0RzcnpR8Dtfmmvx3tr3UUh0yvg9qCW0\ngW6bHLoCQ5jUQgcqtmE3T82HIbtp5tBrk6BK2wb6Zd9I+MaIRfNL9QfpnjEZCqfI\nUx2XMG7cS9Vo8OU9LmjVMPfj8CjWMVq2zN6s8StcCXkXALLaoJ2LXbeRq0odclz5\nLF/6+si3AgMBAAECggEAJsCmG3W5iQlVqe60VXMi22PhMXcXvIWjWn6TWlBgfiEJ\nTHDo61s9E9xQ/bQy47xuqg7c7FTSTKYlzz3AVCoUGzpZ7OXScbrZvhOoYWOp2mTN\nhHXe3swpySZ2Zd5DupTscn2EJPRfV69UjBi/ekClhSkirOa6wN97zWG3ZVSM0WB8\nKhvE+ZBo+XT12b2W1P4Ws+8IHguh5gMGk8SfiSsvNnZNjfY81udN15R3GpbeEmfK\niYoBAwgpdQNN6ZMGHeI4v/KAIf+j5wTuknFi0WiedPtLdik4P8aY8OipmcwHZEsE\nRlVnnTPm0VP3OX4S419YyDt7oE0tuGyfHPkQkEzgAQKBgQD8ivmXwAEylMVm0NqF\ndtLI04PyPMrZkH93tLBCgYEh5e829u18rnta3QKKYAvxkeKa/uv/S/ltne7JJ3dO\nbH+jJll52l1rtqLahuEIqql8fDzO38Y4g7NHEQ2F1qGEWODXxpbNi88WovIeyJVG\n+796cA4/Ay2btznpXfCsdW5j6wKBgQDkjy2yCMZQPfEHIfG0mpJZuvHKSQGTXcY2\nNWF19+jbtainlfiou2i8Mj/Wcmdo5+IYqrvAswlQsrh5eXwFitud6nFfDFldO6jD\n/0PHxP6WEO2Pl/gqVpkdmHc057mGTOVoXLfuhlNxse/iukyYM45QwKsFBBvodCrT\nY2k2N8nXZQKBgCkaybM8ajV8Z4Drn5W3mGldnA1SfcXZshWe0E2S3JzS2xO8Lz1q\n/OL2NBKnvWntT8/gjDL6f7eqzBHrnYyjNkcs18VwmGIO0QT2jSwm8v0zD4awf4f1\nT7nSebv+Cj4LZVVZmnQMPIG3tebyyPFLyoe4M2loMAU3VnK4epLnbjdPAoGAUELP\nQyO9sFPwHhcXb9qP5h615dk5Smy1vDeGoAyMowrpzN/nUClvoBbtP/swwTAcv5jF\nEehNLx9zlITKvo+Ci7PWWBBYGVtn6lvri21sEXqkUbaGGSgL4M63ncZ56eV68ekN\nVh+pkdVwbegKGbCRG15tL/e/bSPOHilcuwNgR9kCgYBxOGeLQatLITLj+JYq4bIQ\nalP3G4Iam0vpDuMcIYGNhX0CmRNfbTYdo1qI8GkkDyYLoZr3AngZf74k7HdXYYew\n/Ru8rKwC9VgPbT8TZk3L3EjoWNTRQdXg9CthZliO4HmhFrnQSFdfZGGGaxdeNUF7\n/V3j3+6bvEitLqpFqAyTIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "naviga-bot@naviga-bot-otip.iam.gserviceaccount.com",
+  "client_id": "117936706420585955672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/naviga-bot%40naviga-bot-otip.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,1 +1,3 @@
-# naviga-app
+# naviga
+
+A new Flutter project.
